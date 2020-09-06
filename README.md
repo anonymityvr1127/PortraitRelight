@@ -9,7 +9,7 @@ lib/networks: networks for each pipeline
 lib/models: pipelins including the loss function
 
 
-###We public our rendering pipeline in render.
+### We public our rendering pipeline in render.
 
 This needs 3D asset from: https://www.gobotree.com/cat/3d-people [detail asset can be found at gobotree_filename.txt]
 Also https://www.3dscanstore.com/archviz-3d-models/female-archviz-3d-models [from 1 to 22]
